@@ -5,7 +5,7 @@ import logic.Control;
 public class Main {
 
 	//Static fields
-	public static String file = "C:\\Users\\oneju\\eclipse-workspace\\FlashCard Project\\src\\Testing.txt";
+	public static String file = "Testing.txt"; 	// add the location of your txt file
 	//Static fields end
 	
 	public static void main(String[] args)  {
