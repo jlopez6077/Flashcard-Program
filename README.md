@@ -1,5 +1,5 @@
 # FlashCardProgram
- A Java Project that reads from a txt file to create flashcards
+ A Java Project that reads from a txt file and create flashcards
 
 # How it works
 ## Create a txt file 
